@@ -1,1 +1,5 @@
-﻿streamlit<=1.13.0
+﻿matplotlib==3.5.1
+XlsxWriter==3.0.3
+streamlit==1.7.0
+seaborn==0.11.2
+pandas==1.4.1
